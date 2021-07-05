@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @45171139Ghai
 - 👀 I’m interested in web development and programming in general
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on mini javaScript projects
 - 📫 How to reach me is through twitter: ThonGhai6 (new on twitter) and instagram: alex.ghai
 
